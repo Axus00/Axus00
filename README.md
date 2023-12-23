@@ -84,7 +84,7 @@
 </a>
 <br><br>
 <a href="https://github.com/Axus00">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Axus00&theme=shadow_red" />
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/Axus00">
