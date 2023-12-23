@@ -157,11 +157,11 @@
 </div>
 
 
-## Credit: [BHARAT V](https://linktr.ee/bharatv)
+## Credit: Axus00
 
-<img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
+
 
 
 ------
-[bindian0509](https://github.com/bindian0509)
-Last Edited on: 25/09/2022
+[Axus00](https://github.com/Axus00)
+Last Edited on: 22/12/2023
