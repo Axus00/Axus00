@@ -70,6 +70,9 @@
     <a  href="https://www.linkedin.com/in/fernando-gómez-toro/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
+    <a  href="https://www.gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
   </div>
 </div>
 <h3 align="center">Reach me</h3>
