@@ -8,7 +8,7 @@
 - 👯 I'm looking to collaborate on system designing and writing code for microservices. 
 - 🤔 I'm looking for a new projects. 
 - 💬 Ask me about JavaScript, SQL or NoSQL (MongoDB) database, System designing problems. 
-- 📫
+- 📫 Contact me: fjgt2000@gmail.com
 - 😄 Pronouns: He/Him/His
 
 
