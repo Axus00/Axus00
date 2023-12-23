@@ -1,7 +1,6 @@
 
-## Hey there ... I am Bharat 👋
+## Hey there ... I am Fernando 👋
 
-![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
 - 🔭 I'm currently working as Manager of Engineering with GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
