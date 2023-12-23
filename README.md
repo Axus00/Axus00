@@ -80,7 +80,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <a href="https://github.com/Axus00">
-  <img align="center" src="https://streak-stats.demolab.com?user=Axus00&theme-shadow-red&hide_border=true" alt="Axus00 GitHub Stats Graph"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=Axus00&theme=shadow-red&hide_border=true" alt="Axus00 GitHub Stats Graph"/>
 </a>
 <br><br>
 <a href="https://github.com/Axus00">
