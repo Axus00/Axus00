@@ -75,7 +75,7 @@
 <!----------------------------------------------------------------->
 <h2 align="center">Technologie knowledge👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,py,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,vscode,bash,linux,vite,react,sass,tailwind,ps&perline=12" />
   </a>
