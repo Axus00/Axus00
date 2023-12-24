@@ -102,14 +102,19 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/Axus00">
-  <img align="center" src="https://streak-stats.demolab.com?user=Axus00&theme=shadow-red&hide_border=true" alt="Axus00 GitHub Stats Graph"/>
-</a>
-<br><br>
-<a href="https://github.com/Axus00">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Axus00&theme=shadow-red" />
-</a>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axus00&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Axus00&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Axus00&theme=holi-theme">
+</p>
+
 </div>
+
+
 
 
 ## Credit: Axus00
