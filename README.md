@@ -8,6 +8,8 @@
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 </div>
 
+### <div align="center">I'm a Student of Riwi. Still in the process of learning in the world of Web Development</div>
+
 - 🔭 I'm currently study programming on Riwi, in technologies as Python, JavaScript, Html and Css
 - 🧓 I'm a seasoned programmer in JavaScript
 - 🌱 I'm currently learning Bootstrap for the styles of html, too some frameworks of JavaScript
