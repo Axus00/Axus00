@@ -1,5 +1,3 @@
-# usuario / README.md
-
 Hey! I'm [@Axus00](https://github.com/Axus00) (Fernando Gómez). 👋
 
 I'm a software developer from Colombia. CO
