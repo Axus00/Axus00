@@ -14,6 +14,6 @@ Now I'm also building UrlShortener. ⚡🔗
 
 You can find me on:
 
-- [My website:](https://fergomez.dev/)
+- [My website: fergomez.dev](https://fergomez.dev/)
 - [GitHub as @Axus00](https://github.com/Axus00)
 - [LinkedIn](https://www.linkedin.com/in/fernando-gomez-toro/)
